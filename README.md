@@ -12,7 +12,6 @@ Its is born in Amsterdam, The Netherlands. It is 1 year old and for now only spe
 *   Easy direct communication via Whatsapp or E-mail.
 *   Location based lab environment. 
 *   Easy to use; designed and developed for non-digital native users (no menu links or hidden resources).
-*   Mobile-first.
 *   Crowd-source tools that really do what they supposed too, and nothing more. 
 *   Easy to use catalogue of tools.
 *   Social network with social control.
