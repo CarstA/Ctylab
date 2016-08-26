@@ -1,6 +1,6 @@
 # A decentralized application that allows neighbors to create local organizations on the block-chain. 
 
-# ![ctylab](media/promo.png)
+# ![ctylab](pictogram1024.png)
 
 # What is ctylab.com
 Ctylab is a community driven project developed step-by-step with groups of dedicated citizens, civil servants and entrepreneurs, who search for new ways to create value in a local context. Think of the sharing economy, crowd-funding, energy microgrids, participative democracy, local IoT data, municipal bonds and more. 
