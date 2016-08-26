@@ -23,6 +23,5 @@ Its is born in Amsterdam, The Netherlands. It is 1 year old and for now only spe
 *   Full encryption of personal details, local data is shared locally. 
 *   100% privacy control, clear rules for transparency demands
 
-License
-
+# License
 GNU © AtelierVA
