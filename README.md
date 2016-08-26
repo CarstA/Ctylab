@@ -24,4 +24,4 @@ Its is born in Amsterdam, The Netherlands. It is 1 year old and for now only spe
 *   100% privacy control, clear rules for transparency demands
 
 # License
-GNU © AtelierVA
+Apache 2.0 © AtelierVA
