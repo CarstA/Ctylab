@@ -20,4 +20,4 @@ Its is born in Amsterdam, The Netherlands. It is 1 year old and for now only spe
 *   Contracting possible on a project, tool or item basis. 
 *   Precise control of contract rules and execution of smart contracts on the block-chain.
 *   Full encryption of personal details, local data is shared locally. 
-*   100% privacy control, clear 
+*   100% privacy control, clear rules for transparency demands
