@@ -7,7 +7,7 @@ Ctylab is a community driven project developed step-by-step with groups of dedic
 
 The platform helps citizengroups stay flexible, informal, trustworthy and spontaneous. It takes away the burdens of organization, financial payoffs, formal agreements, datasharing (and ownership), digital communication and marketing of ideas and events. Our goal is to let citizens share a common ground online, so that ideas, projects, funding and events reach the right people faster and more efficient.  
 
-Its is born in Amsterdam, The Netherlands. It is 1 year old and for now only speaks Dutch (but is a fast learner).  
+Ctylab is born in Amsterdam, The Netherlands. He is 1 year old, and for now only speaks Dutch. (but he's a fast learner).  
 
 # Features
 *   Private and public project environments with domainname capabilities.
