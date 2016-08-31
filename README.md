@@ -3,7 +3,7 @@
 # ![ctylab](pictogram1024.png)
 
 # What is ctylab.com
-Ctylab is a community driven project developed step-by-step, with groups of dedicated citizens, civil servants and entrepreneurs, that search for new ways to create value in a local context. Think of the sharing economy, crowd-funding, energy microgrids, participative democracy, local IoT data, municipal bonds and more. 
+Ctylab is a community driven framework developed step-by-step, with groups of dedicated citizens, civil servants and entrepreneurs, that search for new ways to create value in a local context. Think of the sharing economy, crowd-funding, energy microgrids, participative democracy, local IoT data, municipal bonds and more. 
 
 The platform helps citizengroups stay flexible, informal, trustworthy and spontaneous. It takes away the burdens of organization, financial payoffs, formal agreements, datasharing (and ownership), digital communication and marketing of ideas and events. Our goal is to let citizens share a common ground online, so that ideas, projects, funding and events reach the right people faster and more efficient.  
 
