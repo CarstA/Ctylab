@@ -9,7 +9,7 @@ The platform helps citizengroups stay flexible, informal, trustworthy and sponta
 
 In recent years we've seen many civil apps fail because they have not been able to build enough local communities. Simple local solutions for wayfinding, social meeting, bicycle sharing, neighbor alerts, recycling stuff, just to name some. Each small solution requires users to sign-in, connect and get familiar with the UI. Each app targeted the same groups. Each app started with zero users and failed to get momentum. Something needed to be done.    
 
-As Ctylab grows. We allow developers to use our SDK and attach their (preferably blockchain based) civil solutions to the framework. Ctylab will be your prefered solution since it offers local community users and additional opportunities to profit from your work.  
+As Ctylab grows. We allow developers to use our SDK and attach their (preferably blockchain based) civil solutions to the framework. Ctylab will be your preferred solution since it offers local community users and additional opportunities to profit from your work.  
 
 Ctylab is born in Amsterdam, The Netherlands. He is 1 year old, and for now only speaks Dutch (but he's a fast learner).  
 
